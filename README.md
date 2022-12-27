@@ -1,8 +1,10 @@
 NewsFlip web application was build using React.js and it's single page app or more over this app is supported infinity scrolling functionality using pre define React-Infinity-scroll npm module.
+CREATED BY : Akhil Rangpariya
+
 ![image](https://user-images.githubusercontent.com/99761772/209701062-059e6d27-ace5-4526-94d3-d7f4e1f153eb.png)
 
 
-CREATED BY : Akhil Rangpariya
+
 
 # Getting Started with Create React App
 
